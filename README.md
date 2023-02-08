@@ -1,2 +1,5 @@
-# CSE326-ISD
-Information System Design Sessional
+# CSE326-ISD-UniForum
+
+Information System Design Sessional Project
+
+
